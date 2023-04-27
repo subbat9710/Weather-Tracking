@@ -14,7 +14,7 @@ Technologies Used
 * Vue.js: A progressive JavaScript framework for building user interfaces.
 ## 2. For Backend:
 * .NET: A free, open-source, cross-platform framework for building modern applications.
-* C#: A modern, object-oriented programming language designed to create robust and scalable applications.
+* C#: A modern, object-oriented programming language designed to create robust and, scalable applications.
 * ASP.NET Web API: A framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices.
 * Swagger: A tool that helps developers design, build, document, and consume RESTful web services.
 
